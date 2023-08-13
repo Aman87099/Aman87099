@@ -6,7 +6,7 @@
 
 💡 I have a strong foundation in DSA and Front end development and believe in leveraging my skills to develop top-quality software products that make a difference. From building robust web applications to optimizing performance, I'm passionate about delivering high-quality solutions that meet user needs and exceed expectations.
 
-🌱 Outside of coding, you can find me enjoying a good game of cricket, hitting the gym to stay fit, or diving into coding challenges and DSA problem-solving. These activities not only fuel my passion but also keep my mind sharp and ready for new coding adventures.
+🌱 Outside of coding, you can find me enjoying a good game of cricket, hitting the gym to stay fit, or reading books. These activities not only fuel my passion but also keep my mind sharp and ready for new coding adventures.
 
 🤝 I'm always open to collaborating on exciting projects and connecting with fellow developers. Let's connect and build something amazing together! Feel free to reach out to me through email or social media.
 
